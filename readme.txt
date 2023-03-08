@@ -2,5 +2,5 @@ Project team Member-
 
 Ankit Saha
 Ratnadwip Mitra
-Ratul Ghosh
+Ratul Biswas
 Anirban Ghosh
